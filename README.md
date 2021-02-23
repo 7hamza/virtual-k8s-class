@@ -1,4 +1,4 @@
-# Virtual-K8s-Klass
+# Virtual-K8s-Class
 
 This is the code for mounting a kubernetes class into Azure Cloud using terraform. 
 
